@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-router-miniproject/static/css/main.c9143827.css",
+    "main.js": "/react-router-miniproject/static/js/main.bae5d7fe.js",
+    "static/media/logo.png": "/react-router-miniproject/static/media/logo.8302021de9fe139838e9.png",
+    "index.html": "/react-router-miniproject/index.html",
+    "main.c9143827.css.map": "/react-router-miniproject/static/css/main.c9143827.css.map",
+    "main.bae5d7fe.js.map": "/react-router-miniproject/static/js/main.bae5d7fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9143827.css",
+    "static/js/main.bae5d7fe.js"
+  ]
+}
